@@ -24,11 +24,11 @@ INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
 
-DIRECTORY = "/home/is_nik/myDATA/Mask Scanner/Face-Mask-Detection/dataset"
-CATEGORIES = ["with_mask", "without_mask"]
+DIRECTORY = r"/home/is_nik/myDATA/Mask Scanner/Face-Mask-Detection/dataset" #here add your directory of same folder
+CATEGORIES = ["mask", "maskless"]
 
 
-print("[INFO] loading pictures...")
+print("[INFO] loading pics...")
 
 data = []
 labels = []
