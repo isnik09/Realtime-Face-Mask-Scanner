@@ -18,7 +18,5 @@ sklearn   - using "pip install sklearn"
 and thats all just add your directory path to dataset folder. Open CMD in your cloned directory and type "python train_model.py" to train your model and type "python start_project.py" to start project. 
 You can also add more pics in dataset photos to train your model more accurately.
 Fill free to modify values and play with project 
-
-
                                                                       Peace,
                                                                       NIK...
