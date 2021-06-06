@@ -20,3 +20,8 @@ You can also add more pics in dataset photos to train your model more accurately
 Fill free to modify values and play with project...
 Peace,
 NIK...
+
+working demo
+
+https://photos.app.goo.gl/9afcmysWo7Z9i15P9
+
